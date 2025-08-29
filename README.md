@@ -31,6 +31,7 @@ How to Run:
 python task1_hangman.py
 
 OUTPUT:
+
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/d35a14dc-806d-4a08-ade7-00610b95789c" />
 
 2. 📈 Stock Portfolio Tracker
@@ -47,6 +48,7 @@ How to Run:
 python task2_stock_portfolio.py
 
 OUTPUT:
+
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/413999ab-b0dd-4ca8-b346-16b4e2d37b84" />
   
 
@@ -65,16 +67,21 @@ How to Run:
 python task4_chatbot.py
 
 OUTPUT:
+
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2302c2f2-dbb5-4461-a477-9caa3c580bbb" />
 
 ⚙️ Requirements
 
 Python 3.x
-Works in VS Code or any Python IDE
+
+Works in VS Code 
+
 No external libraries required (only built-in Python modules)
 
 📝 Internship Info
 
 Provider: CodeAlpha
+
 Domain: Python Programming
+
 Intern: Mahveen Sultana
