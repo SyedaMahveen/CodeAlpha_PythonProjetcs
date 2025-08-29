@@ -30,6 +30,9 @@ Shows win/lose messages at the end
 How to Run:
 python task1_hangman.py
 
+OUTPUT:
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/d35a14dc-806d-4a08-ade7-00610b95789c" />
+
 2. 📈 Stock Portfolio Tracker
 A simple stock tracker that calculates the total value of a user’s portfolio using predefined stock prices.
 
@@ -43,6 +46,10 @@ Saves the results to a file (portfolio.txt) for record keeping
 How to Run:
 python task2_stock_portfolio.py
 
+OUTPUT:
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/413999ab-b0dd-4ca8-b346-16b4e2d37b84" />
+  
+
 3. 🤖 Basic Chatbot
 
 A simple rule-based chatbot that responds to greetings and basic queries.
@@ -55,6 +62,9 @@ Beginner-friendly structure for understanding conditionals in Python
 
 How to Run:
 python task4_chatbot.py
+
+OUTPUT:
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2302c2f2-dbb5-4461-a477-9caa3c580bbb" />
 
 ⚙️ Requirements
 
