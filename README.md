@@ -80,10 +80,4 @@ Works in VS Code
 
 No external libraries required (only built-in Python modules)
 
-📝 Internship Info
 
-Provider: CodeAlpha
-
-Domain: Python Programming
-
-Intern: Mahveen Sultana
