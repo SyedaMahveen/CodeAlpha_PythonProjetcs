@@ -10,6 +10,8 @@ DOMAIN:Python Programming
 
 DURATION:4 Weeks
 
+DESCRIPTION:
+
 🚀 CodeAlpha Python Internship Projects
 
 This repository contains the tasks I completed during my Python Programming Internship with CodeAlpha.
