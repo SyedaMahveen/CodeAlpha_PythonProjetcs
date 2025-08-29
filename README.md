@@ -53,6 +53,7 @@ OUTPUT:
 3. 🤖 Basic Chatbot
 
 A simple rule-based chatbot that responds to greetings and basic queries.
+
 Features:
 Responds to greetings such as "hi", "hello", "hey"
 Provides simple conversational replies to common inputs
